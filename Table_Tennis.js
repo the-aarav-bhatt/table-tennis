@@ -20,7 +20,7 @@ function start(e){
     hitside1 = 0;
     hitside2 = 0;
     hitup = 0;
-    increment = 10;
+    increment = 2;
     barXCoordinate = 600;
     gameOn = true;
 
@@ -245,4 +245,5 @@ function refresh(e){
   }
 }
 // ---------------------------------------------------------------------------------------
+
 
